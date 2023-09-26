@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "rails"
   s.add_development_dependency "sqlite3"
-  s.add_development_dependency "codeclimate-test-reporter", '~>0.4'
+  s.add_development_dependency "codeclimate-test-reporter", '~>1.0'
   s.add_development_dependency "minitest", "~> 5"
   s.add_development_dependency "minitest-focus", "~> 1.1"
   s.add_development_dependency "minitest-reporters", "~>1.0"
